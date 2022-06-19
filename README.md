@@ -1,2 +1,2 @@
 Hi 👋
-I am Mason, a web developer from Toronto, ON.
+I am Mason, a web developer from Toronto, Canada.
